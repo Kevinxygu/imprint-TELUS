@@ -1,14 +1,14 @@
 # 🐶 TELUS MyPet Case
 
-This is my case competition submission for the UBC Imprint case competition, where we presented business recommendations for:
+This is my case competition submission for the [UBC Imprint case competition](https://www.instagram.com/ubcimprint/), where we presented business recommendations for:
 1. TELUS' masterbrand rebranding
 2. The TELUS MyPet App
 
 We placed 🥈 **second place for the senior student case!**
 
-[Preliminary case slides link](https://drive.google.com/file/d/1F-5KQ8dSqqZLaXkb2r71mBwgjG_evodO/view?usp=sharing)
+[Preliminary round slides link](https://drive.google.com/file/d/1F-5KQ8dSqqZLaXkb2r71mBwgjG_evodO/view?usp=sharing)
 
-[Final slides link](https://drive.google.com/file/d/1E8gHKfGA0cooUbUQMURxIMY5ScSINMte/view?usp=sharing)
+[Final round slides link](https://drive.google.com/file/d/1E8gHKfGA0cooUbUQMURxIMY5ScSINMte/view?usp=sharing)
 
 ## :book: Learnings
 
