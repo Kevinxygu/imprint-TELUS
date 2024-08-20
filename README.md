@@ -2,7 +2,7 @@
 
 This is my case competition submission for the [UBC Imprint case competition](https://www.instagram.com/ubcimprint/), where we presented business recommendations for:
 1. TELUS' masterbrand rebranding
-2. The TELUS MyPet App
+2. The [TELUS MyPet](https://www.telus.com/en/health/mypet) App
 
 We placed 🥈 **second place for the senior student case!**
 
