@@ -22,4 +22,4 @@ Here's some things I learned:
 | Concept | Learnings |
 |:---|:---|
 | Case Thinking | This was a very transformative experience where I practiced bridging my tech and business skills together. This kickstarted my interests in consulting, tech consulting, product management and case competitionss! |
-| Figma | I designed several mockups in Figma, and practiced adhering to a branding guideline for the preliminary case. I overhauled TELUS' brand to better showcase its alternative, non-telecommunications business tracks like TELUS Health. I got a lot better at Figma!|
+| [Figma](https://www.figma.com/design/) | I designed several mockups in Figma, and practiced adhering to a branding guideline for the preliminary case. I overhauled TELUS' brand to better showcase its alternative, non-telecommunications business tracks like TELUS Health. I got a lot better at Figma!|
