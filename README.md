@@ -21,6 +21,6 @@ This was my first case competition in around 2 years. I brought my tech backgrou
 Here's some things I learned:
 | Concept | Learnings |
 |:---|:---|
-| [TELUS]([https://www.figma.com/design/](https://www.telus.com/en) | This case was a deep dive into TELUS as a company, and helped me understand what made the company strong, its unique value proposition, and how to cater a recommendation based on the company profile. It was a rewarding experience to learn business acumen and act as the technical advisor for TELUS. Let's make the future friendly!|
+| [TELUS](https://www.telus.com/en) | This case was a deep dive into TELUS as a company, and helped me understand what made the company strong, its unique value proposition, and how to cater a recommendation based on the company profile. It was a rewarding experience to learn business acumen and act as the technical advisor for TELUS. Let's make the future friendly!|
 | Case Thinking | This was a very transformative experience where I practiced bridging my tech and business skills together. This kickstarted my interests in consulting, tech consulting, product management and case competitionss! |
 | [Figma](https://www.figma.com/design/) | I designed several mockups in Figma, and practiced adhering to a branding guideline for the preliminary case. I overhauled TELUS' brand to better showcase its alternative, non-telecommunications business tracks like TELUS Health. I got a lot better at Figma!|
